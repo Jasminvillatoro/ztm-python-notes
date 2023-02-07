@@ -10,7 +10,11 @@ Floating point number (decimal point)
 
 ## bool
 
+boolean it can either be true or false
+
 ## str
+
+A piece of text. Underneath the hood strings are stored in memory as an ordered sequence of characters.Python strings are "immutable" which means they cannot be changed after they are created.
 
 ## list
 
