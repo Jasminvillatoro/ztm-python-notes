@@ -18,6 +18,8 @@ A piece of text. Underneath the hood strings are stored in memory as an ordered 
 
 ## list
 
+List in an ordered sequence of objects that can be of any type. -list are mutable
+
 ## tuple
 
 ## set
